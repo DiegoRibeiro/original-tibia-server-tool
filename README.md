@@ -3,9 +3,15 @@ Typescritps for parsing the original tibia server 7.70 format to json format
 
 ## requirements
 - nodejs
+- typescript compiler
+
+## instalation
+- npm install -g typescript
+- npm install
 
 ## running
-- first time run: npm install
+on root folder run:
+- tsc
 - node ./dist/main.js "path/to/object.srv"
 
 ## will update read me later for more details
