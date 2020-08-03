@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": ""
+    "dat": "node ./dist/walk.js \"output/objectTypes.json\" \"D:/Dev/workspace/tibia/d_dat_dump/Tibia.dat\""
   },
   "author": "",
   "license": "ISC"
