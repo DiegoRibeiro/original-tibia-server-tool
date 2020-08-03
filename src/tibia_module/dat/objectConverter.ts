@@ -19,6 +19,8 @@ interface objectTypes {
     client: key;
 }
 
+export type {objectTypes};
+
 export class objectConveter {
     private path: string;
 
